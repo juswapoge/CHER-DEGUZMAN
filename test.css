@@ -1,0 +1,18 @@
+body{
+  background-color: silver;
+  
+}
+
+
+
+p{
+  font-size: 18px;
+  font-family: fantasy;
+}
+
+.gggg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
